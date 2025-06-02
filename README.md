@@ -148,7 +148,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 
 ## 👨‍💻 Kontributor
 
-- **[Your Name]** - *Initial work* - [GitHub Profile](https://github.com/ghiffa08)
+- **Ghiffa08** - *Initial work* - [GitHub Profile](https://github.com/ghiffa08)
 
 ## 🙏 Acknowledgments
 
