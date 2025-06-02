@@ -159,9 +159,9 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 ## 📞 Support
 
 Jika Anda memiliki pertanyaan atau menemukan bug, silakan:
-- Buat [Issue](https://github.com/username/smart-parking/issues) di GitHub
-- Contact via email: your.email@domain.com
-- Join diskusi di [Discussions](https://github.com/username/smart-parking/discussions)
+- Buat [Issue](https://github.com/ghiffa08/smart-parking/issues) di GitHub
+- Contact via email: haikalcode08@gmail.com
+- Join diskusi di [Discussions](https://github.com/ghiffa08/smart-parking/discussions)
 
 ---
 
